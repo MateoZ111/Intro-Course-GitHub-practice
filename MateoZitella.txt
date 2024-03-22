@@ -1,0 +1,4 @@
+Name: Mateo Zitella
+Major: Mechanical Engineering
+Year: 1st
+Favorite thing about robotics (so far): Coding
